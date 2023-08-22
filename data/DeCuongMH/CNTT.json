@@ -1,0 +1,344 @@
+[{
+    "id":1,
+    "HK":"HỌC KÌ 1",
+    "MH":[
+        {
+            "Mon":"Đại số tuyến tính",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 1",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 2",
+            "link":"#"
+        },{
+            "Mon":"Nhập môn tin học",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở lập trình",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":2,
+    "HK":"HỌC KÌ 2",
+    "MH":[
+        {
+            "Mon":"Giải tích",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 3",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 4",
+            "link":"#"
+        },{
+            "Mon":"Kỹ thuật lập trình",
+            "link":"#"
+        },{
+            "Mon":"Kiến trúc máy tính",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":3,
+    "HK":"HỌC KÌ 3",
+    "MH":[
+        {
+            "Mon":"Tiếng Anh nâng cao 5",
+            "link":"#"
+        },{
+            "Mon":"Cấu trúc dữ liệu và thuật giải ",
+            "link":"#"
+        },{
+            "Mon":"Ứng dụng web",
+            "link":"#"
+        },{
+            "Mon":"Hệ điều hành",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":4,
+    "HK":"HỌC KÌ 4",
+    "MH":[
+        {
+            "Mon":"Xác suất và thống kê",
+            "link":"#"
+        },{
+            "Mon":"Triết học Mác - Lênin",
+            "link":"#"
+        },{
+            "Mon":"Lập trình hướng đối tượng",
+            "link":"#"
+        },{
+            "Mon":"Mạng máy tính",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":5,
+    "HK":"HỌC KÌ 5",
+    "MH":[
+        {
+            "Mon":"Kinh tế chính trị Mác - Lênin",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Lập trình giao diện",
+            "link":"#"
+        },{
+            "Mon":"Toán rời rạc",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":6,
+    "HK":"HỌC KÌ 6",
+    "MH":[
+        {
+            "Mon":"Chủ nghĩa xã hội khoa học",
+            "link":"#"
+        },{
+            "Mon":"Phân tích thiết kế hệ thống",
+            "link":"#"
+        },{
+            "Mon":"Quản trị mạng",
+            "link":"#"
+        },{
+            "Mon":"Kỹ năng nghề nghiệp",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":7,
+    "HK":"HỌC KÌ 7",
+    "MH":[
+        {
+            "Mon":"Lịch sử Đảng CS Việt Nam",
+            "link":"#"
+        },{
+            "Mon":"Pháp luật (Chọn 1 môn trong mục Pháp luật)",
+            "link":"#"
+        },{
+            "Mon":"Công nghệ phần mềm",
+            "link":"#"
+        },{
+            "Mon":"Quản trị hệ cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"An toàn hệ thống thông tin",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":8,
+    "HK":"HỌC KÌ 8",
+    "MH":[
+        {
+            "Mon":"Tư tưởng Hồ Chí Minh",
+            "link":"#"
+        },{
+            "Mon":"Kiểm thử phần mềm",
+            "link":"#"
+        },{
+            "Mon":"Trí tuệ nhân tạo",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 1",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":9,
+    "HK":"HỌC KÌ 9",
+    "MH":[
+        {
+            "Mon":"Môn Tự chọn 2",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 3",
+            "link":"#"
+        },{
+            "Mon":"Đồ án ngành",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":10,
+    "HK":"HỌC KÌ 10",
+    "MH":[
+        {
+            "Mon":"Thực tập tốt nghiệp",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":11,
+    "HK":"HỌC KÌ 11",
+    "MH":[
+        {
+            "Mon":"Khóa luận tốt nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Môn học thay thế Khóa luận tốt nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 4",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 5",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":12,
+    "HK":"Danh mục các môn Kinh tế - Luật - Khoa học xã hội nhân văn",
+    "MH":[
+        {
+            "Mon":"Pháp luật đại cương",
+            "link":"#"
+        },{
+            "Mon":"Lý luận nhà nước và pháp luật",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":13,
+    "HK":"Danh mục các môn Tự chọn",
+    "MH":[{
+            "Mon":"Điện toán đám mây",
+            "link":"#"
+        },{
+            "Mon":"Lập trình web",
+            "link":"#"
+        },{
+            "Mon":"Lập trình mạng",
+            "link":"#"
+        },{
+            "Mon":"Lập trình cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở dữ liệu phân tán",
+            "link":"#"
+        },{
+            "Mon":"Hệ thống thông tin địa lý",
+            "link":"#"
+        },{
+            "Mon":"Quản lý dự án phần mềm",
+            "link":"#"
+        },{
+            "Mon":"Phát triển hệ thống Web",
+            "link":"#"
+        },{
+            "Mon":"Các công nghệ lập trình HĐ",
+            "link":"#"
+        },{
+            "Mon":"Đồ họa máy tính",
+            "link":"#"
+        },{
+            "Mon":"Lập trình đồ họa",
+            "link":"#"
+        },{
+            "Mon":"Thị giác máy tính",
+            "link":"#"
+        },{
+            "Mon":"Lập trình cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Khai phá dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở dữ liệu phân tán",
+            "link":"#"
+        },{
+            "Mon":"Thương mại điện tử",
+            "link":"#"
+        },{
+            "Mon":"HT quản lý nguồn lực doanh nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Công nghệ mã nguồn mở",
+            "link":"#"
+        },{
+            "Mon":"LT trên thiết bị di động",
+            "link":"#"
+        },{
+            "Mon":"Lập trình ứng dụng",
+            "link":"#"
+        },{
+            "Mon":"Kỹ thuật điện tử số",
+            "link":"#"
+        },{
+            "Mon":"Chuyên đề",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":14,
+    "HK":"Danh mục các môn học Giáo dục thể chất",
+    "MH":[
+        {
+            "Mon":"Giáo dục thể chất 1",
+            "link":"#"
+        },{
+            "Mon":"Giáo dục thể chất 2: Chọn 1 trong các môn sau đây:"
+        },{
+            "Mon":"2. GDTC2 - Bóng chuyền",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng đá",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Cầu lông",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Võ thuật",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng bàn",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bơi lội",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng rổ",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":15,
+    "HK":"Giáo dục quốc phòng - an ninh",
+    "MH":[
+        {
+            "Mon":"Đường lối QP-An của ĐCSVN",
+            "link":"#"
+        },{
+            "Mon":"Công tác quốc phòng - an ninh",
+            "link":"#"
+        },{
+            "Mon":"Quân sự chung",
+            "link":"#"
+        },{
+            "Mon":"Kỹ thuật chiến đấu của bộ binh và chiến thuật",
+            "link":"#"
+        }
+    ]
+}
+]

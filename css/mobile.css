@@ -1,0 +1,53 @@
+ul.menu{
+    flex-direction: column;
+    
+}
+ul.menu > li > a{
+    padding: 3px;
+}
+.icon{
+    top: 300px;
+}
+.end_show{
+    display: block !important;
+}
+.button_show{
+    display: block;
+}
+
+div.image_first_child{
+    display: none;
+}
+div.image_first >div{
+    width: 100%;
+}
+div.informations{
+    width: 100%;
+}
+div.information_student{
+    flex-direction: column;
+}
+div.slideshow-container{
+    width: 100%;
+}
+div.video div.flex{
+    flex-direction: column;
+}
+div.event div.flex > div{
+    width: 100%;
+}
+div.video div.flex >div {
+    width: 80%;
+}
+div.introduce img{
+    display: none;
+}
+
+div.program{
+    width: 100%;
+}
+div.teacher{
+    width: 100%;
+    flex-direction: column
+}
+

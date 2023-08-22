@@ -1,0 +1,27 @@
+[{
+    "id":1,
+    "image":"Co HA.png",
+    "sizeimage":"height:250px; width:250px",
+    "ten":"PHẠM HÙNG CẨM HUYÊN ANH",
+    "chucdanh": "Trợ lý giáo vụ",
+    "hocvi": "Cử nhân",
+    "email": "anh.phch@ou.edu.vn"
+},
+{
+    "id":2,
+    "image":"NTHau.jpg",
+    "sizeimage":"height:313px; width:250px",
+    "ten":"NGUYỄN TRUNG HẬU",
+    "chucdanh": "Trợ lý sinh viên",
+    "hocvi": "Cử nhân",
+    "email": "anh.phch@ou.edu.vn"
+},
+{
+    "id":3,
+    "image":"NVBay.png",
+    "sizeimage":"height:333px; width:250px",
+    "ten":"NGUYỄN VĂN BẢY",
+    "chucdanh": "Chuyên viên",
+    "hocvi": "Cử nhân",
+    "email": "bay.nv@ou.edu.vn"
+}]

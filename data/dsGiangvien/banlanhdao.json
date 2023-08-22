@@ -1,0 +1,20 @@
+[{
+    "id":1,
+    "image":"Hinh T Truong(2).jpg",
+    "sizeimage":"height:311px; width:250px",
+    "ten":"LÊ XUÂN TRƯỜNG",
+    "chucdanh": "Trưởng khoa -  Chủ tịch hội đồng TV khoa học Khoa",
+    "hocvi": "Tiến sĩ - Giảng viên cao cấp",
+    "monday": "Cấu trúc dữ liệu và Giải thuật, Lập trình hướng đối tượng, Toán rời rạc",
+    "email": "truong.lx@ou.edu.vn"
+},
+{
+    "id":2,
+    "image":"Vinh_2.jpg",
+    "sizeimage":"height:339px; width:250px",
+    "ten":"TRƯƠNG HOÀNG VINH",
+    "chucdanh": "Phó Trưởng khoa -  Tổ trưởng bộ môn Xử lý ảnh và đồ họa",
+    "hocvi": "Tiến sĩ",
+    "monday": "Toán rời rạc, Lập trình đồ họa, Phân tích dữ liệu",
+    "email": "vinh.th@ou.edu.vn"
+}]

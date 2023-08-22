@@ -1,0 +1,376 @@
+[{
+    "id":1,
+    "HK":"HỌC KÌ 1",
+    "MH":[
+        {
+            "Mon":"Đại số tuyến tính",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 1",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 2",
+            "link":"#"
+        },{
+            "Mon":"Nhập môn tin học",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở lập trình",
+            "link":"#"
+        },{
+            "Mon":"Định hướng nghề nghiệp và kỹ năng học tập",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":2,
+    "HK":"HỌC KÌ 2",
+    "MH":[
+        {
+            "Mon":"Giải tích",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 3",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 4",
+            "link":"#"
+        },{
+            "Mon":"Kỹ thuật lập trình",
+            "link":"#"
+        },{
+            "Mon":"Kiến trúc máy tính (TIẾNG ANH)",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":3,
+    "HK":"HỌC KÌ 3",
+    "MH":[
+        {
+            "Mon":"Tiếng Anh nâng cao 5",
+            "link":"#"
+        },{
+            "Mon":"Xác suất và thống kê",
+            "link":"#"
+        },{
+            "Mon":"Cấu trúc dữ liệu và Giải thuật 1 (TIẾNG ANH)",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":4,
+    "HK":"HỌC KÌ 4",
+    "MH":[
+        {
+            "Mon":"Tiếng Anh nâng cao 6",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 7",
+            "link":"#"
+        },{
+            "Mon":"Ứng dụng web (TIẾNG ANH)",
+            "link":"#"
+        },{
+            "Mon":"Cấu trúc dữ liệu và Giải thuật 2",
+            "link":"#"
+        },{
+            "Mon":"Hệ điều hành",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":5,
+    "HK":"HỌC KÌ 5",
+    "MH":[
+        {
+            "Mon":" Triết học Mác - Lênin",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 8",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 9",
+            "link":"#"
+        },{
+            "Mon":"Mạng máy tính",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Lập trình hướng đối tượng",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":6,
+    "HK":"HỌC KÌ 6",
+    "MH":[
+        {
+            "Mon":"Kinh tế chính trị Mác - Lênin",
+            "link":"#"
+        },{
+            "Mon":"Toán rời rạc (TIẾNG ANH)",
+            "link":"#"
+        },{
+            "Mon":"Phân tích thiết kế hệ thống",
+            "link":"#"
+        },{
+            "Mon":"Tiếng Anh nâng cao 10",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":7,
+    "HK":"HỌC KÌ 7",
+    "MH":[
+        {
+            "Mon":"Chủ nghĩa Xã hội khoa học",
+            "link":"#"
+        },{
+            "Mon":"Lập trình giao diện",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 1",
+            "link":"#"
+        },{
+            "Mon":"Cơ sở dữ liệu nâng cao",
+            "link":"#"
+        },{
+            "Mon":"Lập trình cơ sở dữ liệu",
+            "link":"#"
+        },{
+            "Mon":"Mạng máy tính nâng cao",
+            "link":"#"
+        },{
+            "Mon":"Lập trình web",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":8,
+    "HK":"HỌC KÌ 8",
+    "MH":[
+        {
+            "Mon":"Lịch sử Đảng CS Việt Nam",
+            "link":"#"
+        },{
+            "Mon":"Pháp luật(Chọn 1 môn trong mục Pháp luật)",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 2",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 3",
+            "link":"#"
+        },{
+            "Mon":"Quản trị hệ cơ sở dữ liệu (TIẾNG ANH)",
+            "link":"#"
+        },{
+            "Mon":"Quản trị mạng",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":9,
+    "HK":"HỌC KÌ 9",
+    "MH":[
+        {
+            "Mon":"Tư tưởng Hồ Chí Minh",
+            "link":"#"
+        },{
+            "Mon":"Đồ án ngành",
+            "link":"#"
+        },{
+            "Mon":"Công cụ thiết kế HT thông tin (TIẾNG ANH)",
+            "link":"#"
+        },{
+            "Mon":"Lập trình mạng (TIẾNG ANH)",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":10,
+    "HK":"HỌC KÌ 10",
+    "MH":[
+        {
+            "Mon":"Thực tập tốt nghiệp",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":11,
+    "HK":"HỌC KÌ 11",
+    "MH":[
+        {
+            "Mon":"Khóa luận tốt nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Môn học thay thế Khóa luận tốt nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 4",
+            "link":"#"
+        },{
+            "Mon":"Môn Tự chọn 5",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":12,
+    "HK":"Danh sách các môn Kinh tế - Khoa học xã hội nhân văn",
+    "MH":[
+        {
+            "Mon":"Xã hội học đại cương",
+            "link":"#"
+        },{
+            "Mon":"Tâm lý học đại cương",
+            "link":"#"
+        },{
+            "Mon":"Đại cương văn hóa Việt Nam",
+            "link":"#"
+        },{
+            "Mon":"An sinh xã hội",
+            "link":"#"
+        },{
+            "Mon":"Kinh tế học đại cương",
+            "link":"#"
+        },{
+            "Mon":"Kinh tế Vi mô 1",
+            "link":"#"
+        },{
+            "Mon":"Nguyên lý kế toán",
+            "link":"#"
+        },{
+            "Mon":"Quản trị học",
+            "link":"#"
+        },{
+            "Mon":"Khởi nghiệp",
+            "link":"#"
+        },{
+            "Mon":"Định hướng nghề nghiệp và kỹ năng học tập",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":13,
+    "HK":"Danh mục các môn Pháp luật",
+    "MH":[
+        {
+            "Mon":"Pháp luật đại cương",
+            "link":"#"
+        },{
+            "Mon":"Lý luận nhà nước và pháp luật",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":14,
+    "HK":"Danh mục các môn Tự chọn",
+    "MH":[
+        {
+            "Mon":"An toàn hệ thống thông tin",
+            "link":"#"
+        },{
+            "Mon":"Công nghệ mã nguồn mở",
+            "link":"#"
+        },{
+            "Mon":"Trí tuệ nhân tạo",
+            "link":"#"
+        },{
+            "Mon":"Lập trình Java",
+            "link":"#"
+        },{
+            "Mon":"Công nghệ phần mềm",
+            "link":"#"
+        },{
+            "Mon":"LT trên thiết bị di động",
+            "link":"#"
+        },{
+            "Mon":"Kiểm thử phần mềm",
+            "link":"#"
+        },{
+            "Mon":"Điện toán đám mây",
+            "link":"#"
+        },{
+            "Mon":"Chuyên đề",
+            "link":"#"
+        },{
+            "Mon":"Khai phá dữ liệu (TIẾNG ANH)",
+            "link":"#"
+        },{
+            "Mon":"Thị giác máy tính",
+            "link":"#"
+        },{
+            "Mon":"Các công nghệ lập trình HĐ",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":15,
+    "HK":"Danh mục các môn học Giáo dục thể chất",
+    "MH":[
+        {
+            "Mon":"Giáo dục thể chất 1",
+            "link":"#"
+        },{
+            "Mon":"Giáo dục thể chất 2: Chọn 1 trong các môn sau đây:"
+        },{
+            "Mon":"2. GDTC2 - Bóng chuyền",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng đá",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Cầu lông",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Võ thuật",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng bàn",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bơi lội",
+            "link":"#"
+        },{
+            "Mon":"2. GDTC2 - Bóng rổ",
+            "link":"#"
+        }
+    ]
+},
+{
+    "id":16,
+    "HK":"Giáo dục quốc phòng - an ninh",
+    "MH":[
+        {
+            "Mon":"Đường lối QP-An của ĐCSVN",
+            "link":"#"
+        },{
+            "Mon":"Công tác quốc phòng - an ninh",
+            "link":"#"
+        },{
+            "Mon":"Quân sự chung",
+            "link":"#"
+        },{
+            "Mon":"Kỹ thuật chiến đấu của bộ binh và chiến thuật",
+            "link":"#"
+        }
+    ]
+}
+]

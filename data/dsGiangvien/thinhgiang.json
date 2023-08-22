@@ -1,0 +1,40 @@
+[{
+    "id":1,
+    "image":"",
+    "sizeimage":"height:311px; width:250px",
+    "ten":"ĐỖ HOÀNG CƯỜNG",
+    "chucdanh": "Giảng viên chính",
+    "hocvi": "Thạc sĩ",
+    "monday": "Mạng máy tính, Hệ quản trị CSDL",
+    "email": "dohoangcuong@gmail.com"
+},
+{
+    "id":2,
+    "image":"Hung_1.jpg",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"TÔ OAI HÙNG",
+    "chucdanh": " Giảng viên chính",
+    "hocvi": "Thạc sĩ",
+    "monday": "Cơ sở lập trình, Kỹ thuật lập trình.",
+    "email": "hung.to@ou.edu.vn"
+},
+{
+    "id":3,
+    "image":"Thay Le Hong Thai.jpg",
+    "sizeimage":"height:302px; width:250px",
+    "ten":"LÊ HỒNG THÁI",
+    "chucdanh": " Giảng viên",
+    "hocvi": "Thạc sĩ",
+    "monday": "Kỹ thuật lập trình, Toán tin học..",
+    "email": "thai.lh@ou.edu.vn"
+},
+{
+    "id":4,
+    "image":"Co Vo Thi Hong Tuyet.jpg",
+    "sizeimage":"height:375px; width:250px",
+    "ten":"VÕ THỊ HỒNG TUYẾT",
+    "chucdanh": " Giảng viên",
+    "hocvi": "Nghiên cứu sinh",
+    "monday": "Cơ sở lập trình, Kỹ thuật lập trình.",
+    "email": "tuyet.vth@ou.edu.vn"
+}]

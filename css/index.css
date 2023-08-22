@@ -1,0 +1,497 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+input[type=text]{
+    border-radius: 30px;
+    padding: 8px;
+    box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.6);
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.between{
+    justify-content: space-between;
+}
+.center{
+    justify-content: center;
+ 
+}
+.box_shadow{
+    box-shadow: 4px 4px 4px rgb(0, 0, 0, 0.6);
+}
+
+.list{
+    list-style-type: none;
+}
+.position{
+    position: fixed;
+    z-index: 99;
+}
+.header >:first-child{
+    justify-content:space-evenly;
+    background-color: #002147;
+    padding: 5px;
+    color: white;
+    font-size: 14px;
+}
+.header >:first-child > div > a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+.header >:first-child > div > a:hover{
+    text-decoration: underline;
+}
+.header >:nth-child(2){
+    justify-content: space-around;
+    padding: 25px 30px 10px;
+    background-image: url(../image/nen_logo.jpeg);
+}
+div.flag{
+    width: 30%;
+    padding: 5px;
+}
+div.flag > img{
+    width: 45px;
+    padding: 3px;
+}
+.color_line{
+    background-color: #002147;
+    padding: 4px;
+}
+
+/*nav*/
+
+
+ul.menu{
+    background-color: #1d559f;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    font-weight: bold;
+}
+ul.menu > li{
+    border-left: 0.5px solid white;
+    
+}
+ul.menu > li:first-child{
+    border-left: none;
+    
+}
+ul.menu > li > a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 13px 25px;
+    text-align: center;
+    border-bottom-width: 7px;
+    border-bottom-style: solid;
+    border-bottom-color: #1d559f;
+    transition: background-color 0.5s;
+}
+.tick{  /*đánh dấu trang*/
+    background-color: white;
+    color: #1d559f !important;
+    border-bottom-color: rgb(165, 5, 5) !important;
+}
+ul.menu > li > a:hover{
+    background-color: white;
+    color: #1d559f;
+    border-bottom-color: rgb(165, 5, 5);
+}
+
+.subminimenu{
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+ul.subminimenu  > li{
+    background-color: rgb(255, 255, 255, 0.9);
+
+}
+
+ul.subminimenu > li a{
+    
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding: 15px 20px;
+    transition: background-color 0.5s;
+    border-bottom: 1px solid #06067c;
+}
+ul.subminimenu > li a:hover{
+    background-color: #4eb6c4;
+}
+    /*hiển thị menu con*/
+.minimenu:hover .subminimenu{
+    display: block;
+    position: absolute;
+    z-index: 9999;
+}
+
+ul.menu span{
+    padding: 10px;
+    color: red;
+}
+
+/*aside*/
+
+/*tạo nút hover lên sẽ hiện lk fb, yt, gg*/
+.social{
+    list-style-type: none;
+    right: 0;
+    top: 225px;
+    z-index: 99;
+    padding: 0;
+    margin-right: -50px;
+    transition: margin-right 1.5s;
+}
+ul.social > li{
+    padding: 5px;
+}
+li.facebook{
+    background-color: blue;
+    font-size: 40px;
+}
+li.google{
+    background-color: forestgreen;
+    font-size: 30px;
+}
+li.youtube{
+    background-color: red;
+    font-size: 30px;
+}
+.icon{
+    background-color: rgb(255, 0, 0, 0.4);
+    border: 1px solid black;
+    color: black;
+    padding: 15px;
+    right: 0;
+    top: 240px;
+}
+.icon:hover{
+    background-color: red;
+    color: white;
+}
+div.icon:hover .social{
+    margin-right: 0;
+}
+    /* nút go top*/
+.go_top{
+    background-color: rgb(255, 0, 0, 0.4);
+    border: 1px solid black;
+    color: black;
+    padding: 10px 15px;
+    right: 10px;
+    bottom: 10px;
+    font-size: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.go_top:hover{
+    background-color: red;
+    color: white;
+}
+
+div.image_first{
+    background-image: url(../image/Night\ sky\ scenery\ live\ wallpaper.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.image_first_child{
+    width: 25%;
+}
+.img_size{
+    width: 100%;
+}
+div.image_first_text{
+    margin: 30px;
+    background-color: rgb(0, 33, 71, 0.7);
+    color: white;
+    padding: 15px;
+    width: 30%;
+    text-transform: uppercase;
+   
+    
+}
+  
+div.image_first_text h2{
+    color: gold;
+}
+
+div.style_ou{
+    width: 10%;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: rgb(177, 152, 10);
+    font-size: 35px ;
+    padding: 10px 20px 10px 10px;
+} 
+div.style_ou + div{
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.mycanva_1{
+    background-color: rgb(177, 152, 10);
+    width: 50px;
+    height: 15px;
+    margin-left: 5px;
+}
+.mycanva_2{
+    background-color: rgb(177, 152, 10);
+    width: 147px;
+    height: 15px;
+    margin-left: 5px;
+}
+.mycanva_3{
+    background-color: rgb(177, 152, 10);
+    width: 96px;
+    height: 15px;
+    margin-left: 5px;
+}
+
+
+    
+
+/*main*/
+
+.size{
+    width: 85%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+div.informations{
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+    width: 23%;
+    
+}
+div.informations img{
+    width: 330px;
+    height: 180px;
+    padding: 0;
+    transition: transform 0.5s;
+}
+
+div.informations img:hover{
+    transform: translateY(10px);
+}
+
+div.informations a{
+    color: black;
+    text-decoration: none;
+}
+div.informations a:hover{
+    text-decoration: underline;
+}
+.information{
+    position: relative;
+    overflow: hidden;
+}
+
+/* tạo hiệu ứng hover lên sẽ hiển thị thêm thông tin```*/
+div.thumb{
+    padding: 5px;
+    color: white;
+    position: absolute    ;
+    background-color: rgb(2, 2, 2,0.6);
+    top: 185px;
+    left: 0;
+    right: 0;
+    transition: transform 0.5s;
+    font-size: 12px;
+}
+  
+.information:hover div.thumb{
+    transform: translateY(-130px);
+}
+
+  /*phần link xem thêm*/
+.more{
+    background-color: #002147;
+    padding: 10px;
+    text-align: center;
+}
+.more a{
+    color: white;
+    text-decoration: none;
+}
+
+    /*phần thông tin sv*/
+div.information_student{
+    border: 0.5px solid black;
+    margin-bottom: 20px;
+}
+
+div.information_student :nth-child(2){
+    margin: auto 0;
+}
+div.information_student ul{
+    line-height: 1.6;
+}
+
+div.information_student a{
+    color: red;
+    text-decoration: none;
+}
+div.information_student a:hover{
+    text-decoration: underline;
+}
+
+.slideshow-container {
+    max-width: 500px;
+    position: relative;
+    margin: 5px;
+    width: 50%;
+}
+.mySlides {
+    display: none;
+}
+
+.dot {
+    cursor:pointer;
+    height: 13px;
+    width: 13px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+    background-color: #717171;
+}
+
+div.slideshow-container :nth-child(2){
+    text-align: center;
+    
+}
+
+  /* Thêm hiệu ứng khi chuyển đổi các slide */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 3s;
+    animation-name: fade;
+    animation-duration: 3s;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .5} 
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .5} 
+    to {opacity: 1}
+}
+    /* sự liện*/
+.event{
+    background-image: url(../image/bg_sukien.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.event h1{
+    margin: 0;
+    padding: 15px;
+}
+div.event >div{
+    background-color: rgb(0, 0, 0, 0.4);
+}
+div.event div.flex > div{
+    background-color: white;
+    padding: 15px;
+    width: 30%;
+    margin: 0 40px 40px 40px;
+}
+
+    /*video về trường*/
+div.video h1{
+    color: white;
+    padding: 15px;
+    margin: 0;
+}
+div.video{
+    margin-top: 5px;
+    background-image: url(../image/hoa-hong-xanh.jpg);
+    background-attachment: fixed;
+}
+div.video > div{
+    background-color: rgb(0, 0, 0, 0.6);
+}
+div.video div.flex > div{
+    margin: 20px 25px 50px;
+    width: 25%;
+}
+
+    /*lk doanh nghiệp*/
+.business h1{
+    margin: 0;
+    padding: 20px;
+}
+.business{
+    margin: 0;
+}
+div.business >:nth-child(2) >div{
+    width: 10%;
+    margin: 20px 40px;
+}
+div.business img{
+    transition: transform .5s;
+}
+div.business img:hover{
+    transform: scale(1.3);
+}
+
+/*footer*/
+div.introduce h3{
+    color: red;
+    text-transform: uppercase;
+}
+div.introduce{
+    background-color: rgb(10, 10, 10, 0.7);
+    padding: 10px 50px;
+}
+div.thumb a{
+    background-color: #1d559f;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+div.thumb a:hover{
+    background-color: white;
+    color: #06067c;
+}
+
+footer{
+    background-image: url(../image/DH-MO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    line-height: 1.8;
+    font-size: 14px;
+    margin-top: 5px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+
+
+ 

@@ -1,0 +1,181 @@
+[{
+    "id" : 1,
+    "image": "NguyenTienDat-KhoaCNTT-OU.jpg",
+    "sizeimage":"height:379px; width:250px",
+    "ten": "NGUYỄN TIẾN ĐẠT",
+    "chucdanh": "Tổ trưởng bộ môn Hệ thống thông tin",
+    "hocvi": "Tiến sĩ",
+    "monday": "Khai phá dữ liệu, Lập trình hướng đối tượng, Cơ sở lập trình",
+    "email": "dat.nt@ou.edu.vn"
+},
+{
+    "id":2,
+    "image":"Thay Khue.jpg",
+    "sizeimage":"height:167px; width:250px",
+    "ten":"PHAN TRẦN MINH KHUÊ",
+    "chucdanh":"Tổ Trưởng bộ môn Khoa học dữ liệu",
+    "hocvi":"Tiến sĩ",
+    "monday":"Cơ sở lập trình, Kỹ thuật lập trình, Cấu trúc dữ liệu",
+    "email":"khue.ptm@ou.edu.vn"
+},
+{
+    "id":3,
+    "image":"T_Phuc.jpg",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"PHAN ĐẠT PHÚC",
+    "chucdanh":"",
+    "hocvi":"Tiến sĩ",
+    "monday":"Lập trình web, Lập trình đồ họa, Lập trình java.",
+    "email":"phandatphuc@yahoo.com"
+},
+{
+    "id":4,
+    "image":"LHThong.png",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"HUỲNH LƯƠNG HUY THÔNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Tiến sĩ",
+    "monday":"",
+    "email":"huythong.tc@gmail.com"
+},
+{
+    "id":5,
+    "image":"",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"HUR JUNG YOUN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"GS.Tiến sĩ",
+    "monday":"",
+    "email":""
+},
+{
+    "id":6,
+    "image":"MaiTrang-ouitN(1).png",
+    "sizeimage":"height:405px; width:250px",
+    "ten":"NGUYỄN THỊ MAI TRANG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday":"Lập trình giao diện, Lập trình web.",
+    "email":"trang.ntm@ou.edu.vn"
+},
+{
+    "id":7,
+    "image":"Khai_1.jpg",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"HỒ QUANG KHẢI",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday":"Phân tích thiết kế hệ thống, Quản trị hệ cơ sở dữ liệu.",
+    "email":"khai.hq@ou.edu.vn"
+},
+{
+    "id":8,
+    "image":"Phuong_2.jpg",
+    "sizeimage":"height:376px; width:250px",
+    "ten":"LƯU QUANG PHƯƠNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday":"Quản trị mạng, Lập trình mạng, An toàn bảo mật thông tin",
+    "email":"phuong.lq@ou.edu.vn"
+},
+{
+    "id":9,
+    "image":"KAnh_1.jpg",
+    "sizeimage":"height:308px; width:250px",
+    "ten":"VÕ THỊ KIM ANH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "Phát triển HTTT kinh tế, HT quản lý nguồn lực DN",
+    "email":"anh.vtk@ou.edu.vn"
+},
+{
+    "id":10,
+    "image":"Thay Le Viet Tuan.jpg",
+    "sizeimage":"height:316px; width:250px",
+    "ten":"LÊ VIẾT TUẤN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monday": "Lập trình cơ sở dữ liệu, Lập trình trên thiết bị di động.",
+    "email":"tuan.lv@ou.edu.vn"
+},
+{
+    "id":11,
+    "image":"Thanh.png",
+    "sizeimage":"height:279px; width:250px",
+    "ten":"DƯƠNG HỮU THÀNH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "Lập trình java",
+    "email":"thanh.dh@ou.edu.vn"
+},
+{
+    "id":12,
+    "image":"PTrang1.jpg",
+    "sizeimage":"height:312px; width:250px",
+    "ten":"NGUYỄN THỊ PHƯƠNG TRANG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monday": "Cơ sở dữ liệu, Phân tích thiết kế",
+    "email":"trang.ntp@ou.edu.vn"
+},
+{
+    "id":13,
+    "image":"Thay Ngoc Hieu.jpg",
+    "sizeimage":"height:332px; width:250px",
+    "ten":"LÊ NGỌC HIẾU",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monday": "Lập trình trên thiết bị di động, Lập trình cơ sở dữ liệu",
+    "email":"hieu.ln@ou.edu.vn"
+},
+{
+    "id":14,
+    "image":"Thay Ho Van Thanh.jpg",
+    "sizeimage":"height:318px; width:250px",
+    "ten":"HỒ VĂN THANH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "Kiến trúc máy tính, Hệ điều hành",
+    "email":"thanh.hv@ou.edu.vn"
+},
+{
+    "id":15,
+    "image":"Thay Ho Huong Thien.jpg",
+    "sizeimage":"height:371px; width:250px",
+    "ten":"HỒ HƯỚNG THIÊN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "Mạng máy tính, Quản trị mạng",
+    "email":"thien.hh@ou.edu.vn"
+},
+{
+    "id":16,
+    "image":"Cong.jpg",
+    "sizeimage":"height:250px; width:250px",
+    "ten":"PHẠM CHÍ CÔNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "",
+    "email":"cong.pc@ou.edu.vn"
+},
+{
+    "id":17,
+    "image":"GV Duong Thai Bao.jpg",
+    "sizeimage":"height:338px; width:250px",
+    "ten":"DƯƠNG THÁI BẢO",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "",
+    "email":"bao.dt@ou.edu.vn"
+},
+{
+    "id":17,
+    "image":"Co NTNThanh.jpg",
+    "sizeimage":"height:250px; width:250px",
+    "ten":"NGUYỄN THỊ NGỌC THANH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monday": "",
+    "email":"thanh.ntn@ou.edu.vn"
+}]
+   
