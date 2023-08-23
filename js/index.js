@@ -35,7 +35,7 @@ window.onload = function() {
 $(document).ready(function(){
 
   $(window).scroll(function() {
-      if($(this).scrollTop()){
+      if($(this).scrollTop() >= 185){
         $("#go").fadeIn();
       } else {
         $("#go").fadeOut();
