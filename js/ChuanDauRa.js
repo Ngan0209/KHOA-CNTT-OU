@@ -25,7 +25,7 @@ function loadDaura() {
             <div class="program">
                 <a href="${l.link}">
                     <p><i class="fa-solid fa-desktop"></i></p>
-                    <h3>Chương trình đào tạo khóa ${l.year}</h3>
+                    <h3>Chuẩn đầu ra khóa ${l.year}</h3>
                     <p>Xem chi tiết</p>
                 </a>
             </div>
@@ -44,7 +44,7 @@ function loadDaura() {
             <div class="program">
             <a href="${r.link}">
                 <p><i class="fa-solid fa-desktop"></i></p>
-                <h3>Chương trình đào tạo khóa ${r.year}</h3>
+                <h3>Chuẩn đầu ra khóa ${r.year}</h3>
                 <p>Xem chi tiết</p>
             </a>
         </div>
